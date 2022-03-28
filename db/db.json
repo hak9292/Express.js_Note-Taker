@@ -1,12 +1,12 @@
 [
     {
-        "title": "asdasd",
-        "text": "aasdasd",
-        "id": "1xxuste2del1b33cmd"
+        "title": "Note Test #1",
+        "text": "This is a test!\n",
+        "id": "1xxuste2rql1b8on9r"
     },
     {
-        "title": "Note Title",
-        "text": "Note Text",
-        "id": "1xxuste2del1b33urx"
+        "title": "Note Test #3",
+        "text": "I will delete \"Note Test #2\" after saving this one!",
+        "id": "1xxuste2rql1b8qj4x"
     }
 ]
